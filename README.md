@@ -10,9 +10,6 @@ This project focuses on analyzing Punjab National Bank (PNB) stock market data t
 - Delivery Percentage analysis
 - Turnover visualization
 
-## Dashboard Preview
-Add your dashboard screenshot here.
-
 ## Key Learnings
 - Data analysis
 - Data visualization
